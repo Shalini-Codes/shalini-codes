@@ -42,11 +42,6 @@ I enjoy solving challenging problems and crafting seamless user experiences.
 
 ---
 
-### 💼 Projects Highlights
-- 🖌️ **Portfolio Website** – Built with React & Tailwind showcasing my work & achievements.  
-- ☁️ **Cloud Deployment Dashboard** – Real-time cloud resource tracker using AWS and React.  
-- 🔢 **DSA Visualizer** – Interactive visualizations for sorting algorithms and tree traversals.  
-
 _(Check out the repositories below for more!)_
 
 ---
