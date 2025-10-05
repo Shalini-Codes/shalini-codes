@@ -1,62 +1,51 @@
-# 👋 Hi there, I'm Shalini Bhagat!
+# Hi there 👋, I'm Shalini Bhagat
 
-🚀 **Frontend Developer | Cloud Enthusiast | DSA Master**
-
----
-
-### 🌟 About Me
-I'm a passionate and curious developer who loves building **beautiful, functional, and scalable web applications**.  
-With a strong foundation in **Data Structures & Algorithms (DSA)** and hands-on experience in **Cloud technologies**,  
-I enjoy solving challenging problems and crafting seamless user experiences.
+I'm a passionate **Frontend Developer** | **Cloud Enthusiast** | **DSA Problem Solver**.  
+I love building responsive, user-friendly web applications and exploring cloud technologies while solving algorithmic challenges.  
 
 ---
 
-### 💻 Tech Stack
-
-#### 🖥️ Frontend Development
-- HTML5 | CSS3 | JavaScript (ES6+)
-- React.js | Next.js | Redux | Tailwind CSS
-- Responsive UI/UX Design | REST APIs | Axios | Framer Motion
-
-#### ☁️ Cloud & DevOps
-- AWS | Azure | Google Cloud Platform
-- Docker | GitHub Actions | CI/CD Pipelines
-- Firebase | Netlify | Vercel
-
-#### 🧠 Data Structures & Algorithms
-- C++ 
-- Competitive Programming (LeetCode | Codeforces | GFG)
-- Strong understanding of Data Structures & Algorithm Complexity
+## 🚀 About Me
+- 💻 Frontend developer with strong skills in **React**, **JavaScript**, **HTML**, and **CSS**.  
+- ☁️ Cloud computing enthusiast, currently exploring **Azure** services and deployment.  
+- 📈 Strong foundation in **Data Structures & Algorithms**.  
+- 🎯 Always learning new technologies and improving coding skills.  
 
 ---
 
-### 🛠️ Tools I Use
-- VS Code | Git & GitHub | Postman | Figma | Chrome DevTools
+## 🛠️ Tech Stack
+
+### Frontend
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+### Cloud
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+### Tools & Version Control
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+### DSA & Programming
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
 
 ---
 
-### 📚 Currently Learning
-- Advanced React patterns & Next.js 15
-- Cloud-native app deployment using AWS
-- System Design & Low-Level Design
+## 📈 GitHub Stats
+![Shalini's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
 
 ---
 
-_(Check out the repositories below for more!)_
-
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shalini-bhagat-857362338/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Lk1bXdmZvM/)
 ---
 
-### 🧩 My GitHub Stats
+### 🌟 Fun Fact
+I love turning complex problems into clean, user-friendly solutions and enjoy exploring cloud technologies in my free time.
 
-![Shalini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShaliniBhagat&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShaliniBhagat&layout=compact&theme=tokyonight)
-
----
-
-### 🌐 Connect With Me
-📧 **Email:** shalini79801@gmail.com
-💼 **LinkedIn:** [linkedin.com/in/shalinibhagat](https://www.linkedin.com/in/shalini-bhagat-857362338/)
----
-
-⭐ _“Code is like art — it’s not just about solving problems, it’s about creating experiences.”_
