@@ -60,7 +60,7 @@ _(Check out the repositories below for more!)_
 ---
 
 ### 🌐 Connect With Me
-📧 **Email:** [shalini79801@gmail.com]  
+📧 **Email:** shalini79801@gmail.com
 💼 **LinkedIn:** [linkedin.com/in/shalinibhagat](https://www.linkedin.com/in/shalini-bhagat-857362338/)
 ---
 
