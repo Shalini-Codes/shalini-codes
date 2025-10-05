@@ -24,9 +24,9 @@ I enjoy solving challenging problems and crafting seamless user experiences.
 - Firebase | Netlify | Vercel
 
 #### 🧠 Data Structures & Algorithms
-- C++ | Java | Python  
+- C++ 
 - Competitive Programming (LeetCode | Codeforces | GFG)
-- Strong understanding of Time & Space Complexity
+- Strong understanding of Data Structures & Algorithm Complexity
 
 ---
 
